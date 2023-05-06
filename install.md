@@ -1,4 +1,4 @@
-###環境構築
+### インストール方法
 ! git clone 
 %cd homework2
 %mkdir checkpoints
